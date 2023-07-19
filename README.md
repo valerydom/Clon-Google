@@ -1,4 +1,5 @@
 # GOOGLE CLONE
+###### Por: Valeria Domínguez Barrientos
 
 ## 🗂Introducción
 En el presente repositorio se muestra el proyecto realizado sobre la clonación de la interfaz de Google a través de HTML y CSS.
