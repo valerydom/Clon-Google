@@ -11,5 +11,5 @@ Julio 2023.
 Aprender a utilizar las etiquetas de HTML5 y las propiedades de CSS3; así como identificar componentes base de un sitio web, para analizarlas y replicarlas. 
 
 ## ✨Resultado
-Visualiza el proyecto final [LinkedIn](https://www.linkedin.com/in/pushpalroy/)
+Visualiza el proyecto final [AQUÍ](https://clongoogle-byvalerydom.netlify.app/)
 ![GOOGLE CLONE FINAL](https://github.com/valerydom/Clon-Google/assets/139601134/40b53239-e5b0-4289-bca9-1453be66c234)
